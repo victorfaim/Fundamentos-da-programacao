@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Faça um programa que calcule e mostre a tabuada de um número digitado pelo usuário. */
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+ Faça um programa que calcule e mostre a tabuada de um número digitado pelo usuário. */
 
 int main ()
 {
