@@ -19,10 +19,10 @@ int main ()
 
   //Entrada de dados
 	printf("\nDigite a base do angulo: ");
-	scanf("%f", &ang_base); 
+	scanf("%f%*c", &ang_base); //Coloca o valor na variavel e ja limpa o buffer 
 
-	printf("Distância: ");
-	scanf("%f", &base);
+	printf("\nDigite a distância: ");
+	scanf("%f%*c", &base);
 //Calculos
     hipo = base / cos(ang_base);
 	if (hipo < 0) // verificando se a hipotenusa é um valor positivo
