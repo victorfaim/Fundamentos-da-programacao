@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 a) a idade dessa pessoa em anos;
 b) a idade dessa pessoa em meses;
 c) a idade dessa pessoa em dias;
