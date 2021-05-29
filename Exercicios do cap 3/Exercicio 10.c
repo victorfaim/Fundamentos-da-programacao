@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Faça um programa que calcule e mostre a área de um quadrado. Sabe-se que: A = lado * lado */
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+Faça um programa que calcule e mostre a área de um quadrado. Sabe-se que: A = lado * lado */
 
 int main ()
 {
