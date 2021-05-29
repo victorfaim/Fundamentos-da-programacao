@@ -2,8 +2,10 @@
 #include <stdio.h>
 #include <math.h> //necessária para usar as funções matemáticas como "pow" usado em exercicio
 
- 
- /*Faça um programa que receba o raio, calcule e mostre:
+ /* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+	Faça um programa que receba o raio, calcule e mostre:
     a) o comprimento de uma esfera; sabe-se que C = 2 * p R;
     b) a área de uma esfera; sabe-se que A = p R2
     c) o volume de uma esfera; sabe-se que V = ¾ * p R3. */
