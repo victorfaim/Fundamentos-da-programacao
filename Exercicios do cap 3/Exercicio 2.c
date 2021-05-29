@@ -2,7 +2,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Faça um programa que receba três números, calcule e mostre a multiplicação desses números. */
+/*Victor Hugo Faim 
+victorfaim@hotmail.com
+
+Faça um programa que receba três números, calcule e mostre a multiplicação desses números. */
 int main ()
 {
     int num1, num2, num3;
