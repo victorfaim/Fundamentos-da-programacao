@@ -12,16 +12,14 @@ int main ()
     float vendas;
 
     printf ("Digite o salario do funcionario: ");
-    scanf ("%f%*c", &salario);
+    scanf ("%f%*c", &salario); // pega o salario e limpa o buffer do teclado
     printf ("Digite o total de vendas do funcionario: ");
     scanf ("%f%*c", &vendas);
 
-    novo_salario= salario+ (vendas*0.04);
+    novo_salario= salario+ (vendas*0.04); // calculo do salario + a comissao de 4% nas vendas
 
     printf ("O salario do funcionario com a comissao de 4 porcento e de: %.2f", novo_salario);
     
-
-
 
     return 0;
 }
