@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
-segundo*/
+/*Victor Hugo Faim 
+victorfaim@hotmail.com
+
+ "Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
+segundo"*/
 int main()
 {
     int num1, num2; // Declaração das variaveis do tipo inteiro
