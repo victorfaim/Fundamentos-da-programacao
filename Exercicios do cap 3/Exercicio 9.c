@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Faça um programa que calcule e mostre a área de um trapézio.
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+ Faça um programa que calcule e mostre a área de um trapézio.
 Sabe-se que: A = ((base maior + base menor) * altura)/2*/
 
 int main ()
