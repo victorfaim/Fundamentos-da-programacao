@@ -2,7 +2,10 @@
 #include <stdlib.h>
 #include <math.h> // biblioteca para uso da função sqrt
 
-/*Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipotenusa*/
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipotenusa*/
 
 int main ()
 {
