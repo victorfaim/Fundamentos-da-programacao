@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Faça um programa que calcule e mostre a área de um losango*/
+/* Victor Hugo Faim 
+victorfaim@hotmail.com
+
+ Faça um programa que calcule e mostre a área de um losango*/
 int main ()
 {
     float diag_maior, diag_menor;
