@@ -13,13 +13,14 @@ int main ()
 {
     float n1,n2;
     float media;
-
+    //Entrada de dados
     printf ("Digite as duas notas: ");
     scanf ("%f%*c", &n1);
     scanf ("%f%*c", &n2);
-
+    //Calculo da media
     media = (n1+n2)/2;
 
+    //Comparações e saida de dados
 
     if (media<=3){
         printf ("Aluno com media %.1f esta Reprovado!\n", media);
