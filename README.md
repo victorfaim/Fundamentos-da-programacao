@@ -1,6 +1,9 @@
 # Fundamentos da programacao
  Exercicios resolvidos e ligeiramente comentados do livro Fundamentos da programação
- Com o intuito de ajudar novos alunos e pessoas que estão com dificuldade em algum codigo
+ 
+ Com o intuito de ajudar novos programadores que estão com dificuldade em algum codigo do livro!
+ 
+ Apenas exercicios propostos pelo livro!
  
  Separado em Capítulos e por subpastas
 
